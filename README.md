@@ -1,2 +1,5 @@
 # Kumpulan contoh data motif dinamis
-Kumpulan contoh data untuk platform deteksi motif jaringan
+
+* dinamis-small.csv - 10000 Row
+* dinamis-medium.csv - 100000 Row
+* dinamis-medium.csv - 1000000 Row

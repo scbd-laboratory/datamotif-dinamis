@@ -6,7 +6,7 @@
 
 ## Format Data
 
-Berikut merupakan format data, yang dapat diikuti. Pastikan untuk menggunakan separator berupa semicolon ";". Data dinamis memiliki kolom ```date``` yang merupakan informasi tanggal. 
+Berikut merupakan format data, yang dapat diikuti. Pastikan untuk menggunakan separator berupa semicolon ```;```. Data dinamis memiliki kolom ```date``` yang merupakan informasi tanggal. 
 
 date | source | target 
 --- | --- | --- 
